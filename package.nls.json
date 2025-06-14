@@ -1,0 +1,22 @@
+{
+  "focusBlocker.openSettings.title": "Focus Blocker: Open Settings",
+  "focusBlocker.restartTimer.title": "Focus Blocker: Restart Timer",
+  "focusBlocker.activate.title": "Focus Blocker: Restart Timer",
+  "focusBlocker.configuration.intervalMin": "Work interval duration in minutes",
+  "focusBlocker.configuration.breakMin": "Break duration in minutes",
+  "focusBlocker.configuration.title": "Focus Blocker",
+  "focusBlocker.status.tooltip": "Time until break",
+  "focusBlocker.timer.restarted": "🔁 Timer restarted manually",
+  "focusBlocker.timer.started": "Timer started: {0} minutes",
+  "focusBlocker.blocker.activated": "Blocker activated",
+  "focusBlocker.blocker.closed": "Blocker manually closed",
+  "focusBlocker.blocker.finished": "Break finished, restarting timer",
+  "focusBlocker.status.break": "$(watch) 🔒 Break",
+  "focusBlocker.activatedMessage": "Hello from vscode-focus-blocker!",
+  "focusBlocker.deactivated": "Extension deactivated",
+  "focusBlocker.settings.saved": "Settings saved!",
+  "focusBlocker.settings.save": "Save",
+  "focusBlocker.settings.title": "Blocker settings",
+  "focusBlocker.webview.breakTitle": "🚫 Break! Return in:",
+  "focusBlocker.status.untilBreak": "$(watch) {0}:{1} until break"
+}

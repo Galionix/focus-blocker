@@ -1,0 +1,22 @@
+{
+  "focusBlocker.openSettings.title": "Фокус-блокер: Открыть настройки",
+  "focusBlocker.restartTimer.title": "Фокус-блокер: Перезапустить таймер",
+  "focusBlocker.activate.title": "Фокус-блокер: Перезапустить таймер",
+  "focusBlocker.configuration.intervalMin": "Продолжительность работы (в минутах)",
+  "focusBlocker.configuration.breakMin": "Продолжительность перерыва (в минутах)",
+  "focusBlocker.configuration.title": "Фокус-блокер",
+  "focusBlocker.status.tooltip": "До следующего перерыва",
+  "focusBlocker.timer.restarted": "🔁 Таймер перезапущен вручную",
+  "focusBlocker.timer.started": "Таймер запущен: {0} минут",
+  "focusBlocker.blocker.activated": "Блокировка активирована",
+  "focusBlocker.blocker.closed": "Блокировка закрыта вручную",
+  "focusBlocker.blocker.finished": "Перерыв завершён, таймер запущен заново",
+  "focusBlocker.status.break": "$(watch) 🔒 Перерыв",
+  "focusBlocker.activatedMessage": "Привет от vscode-focus-blocker!",
+  "focusBlocker.deactivated": "Расширение деактивировано",
+  "focusBlocker.settings.saved": "Настройки сохранены!",
+  "focusBlocker.settings.save": "Сохранить",
+  "focusBlocker.settings.title": "Настройки блокера",
+  "focusBlocker.webview.breakTitle": "🚫 Перерыв! Возвращайся через:",
+  "focusBlocker.status.untilBreak": "$(watch) {0}:{1} до перерыва"
+}
