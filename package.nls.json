@@ -11,12 +11,12 @@
   "focusBlocker.blocker.activated": "Blocker activated",
   "focusBlocker.blocker.closed": "Blocker manually closed",
   "focusBlocker.blocker.finished": "Break finished, restarting timer",
-  "focusBlocker.status.break": "$(watch) 🔒 Break",
+  "focusBlocker.status.break": "🔒 Break",
   "focusBlocker.activatedMessage": "Hello from vscode-focus-blocker!",
   "focusBlocker.deactivated": "Extension deactivated",
   "focusBlocker.settings.saved": "Settings saved!",
   "focusBlocker.settings.save": "Save",
   "focusBlocker.settings.title": "Blocker settings",
   "focusBlocker.webview.breakTitle": "🚫 Break! Return in:",
-  "focusBlocker.status.untilBreak": "$(watch) {0}:{1} until break"
+  "focusBlocker.status.untilBreak": "{0}:{1} until break"
 }

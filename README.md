@@ -4,7 +4,9 @@
 Focus Blocker keeps you productive and healthy by **actively reminding you to take breaks** — with a full-screen overlay you can’t ignore.
 
 > No more “just 5 more minutes”. When it’s break time, you’ll know.
-
+![Preview](images/blocked.png)
+In status bar:
+![Preview](images/status.png)
 ---
 
 ## ✨ Features

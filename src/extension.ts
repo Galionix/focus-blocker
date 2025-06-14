@@ -54,7 +54,7 @@ export function activate(context: vscode.ExtensionContext) {
       if (msLeft <= 0) {
         statusBarItem.text = localize(
           "focusBlocker.status.break",
-          "$(watch) 🔒 Break"
+          "🔒 Break"
         );
         clearInterval(intervalCountdown);
         return;
@@ -64,7 +64,7 @@ export function activate(context: vscode.ExtensionContext) {
 
       statusBarItem.text = localize(
         "focusBlocker.status.untilBreak",
-        "$(watch) {0}:{1} until break",
+        "{0}:{1} until break",
         min,
         sec.toString().padStart(2, "0")
       );
@@ -100,7 +100,7 @@ export function activate(context: vscode.ExtensionContext) {
     blockerPanel = vscode.window.createWebviewPanel(
       "focus-blocker",
       //   "Перерыв",
-      localize("focusBlocker.status.break", "$(watch) 🔒 Break"),
+      localize("focusBlocker.status.break", "🔒 Break"),
       vscode.ViewColumn.One,
       {
         enableScripts: true,
