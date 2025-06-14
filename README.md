@@ -59,4 +59,4 @@ Focus Blocker helps you automate this rhythm without friction.
 3. Or run:
 
 ```bash
-ext install your-publisher.focus-blocker
+ext install galionix.focus-blocker
