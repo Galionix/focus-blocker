@@ -1,8 +1,9 @@
 {
   "name": "focus-blocker",
-  "displayName": "vscode-focus-blocker",
+  "displayName": "Focus Blocker",
   "description": "Blocks access to the editor on timer",
   "version": "0.0.1",
+  "publisher": "Galionix",
   "engines": {
     "vscode": "^1.97.0"
   },
